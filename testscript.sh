@@ -1,1 +1,2 @@
-echo "Some text here." > /opt/scripts/myfile.txt
+echo "First arg: $1"
+echo "Second arg: $2"
